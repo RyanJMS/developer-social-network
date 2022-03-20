@@ -1,2 +1,3 @@
-# developer-social-network
+# MERN-Project
+
 A social network for developers

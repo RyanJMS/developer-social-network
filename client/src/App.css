@@ -58,8 +58,15 @@
 .py-5 {
   padding: 5rem 0;
 }
-.container {
+.form-container {
   max-width: 1100px;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 2rem;
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+}
+.container {
   margin: auto;
   overflow: hidden;
   padding: 0 2rem;
